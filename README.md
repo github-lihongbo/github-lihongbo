@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @github-lihongbo
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning C C++
+- 📫 How to reach me, email: 2874667276@qq.com
